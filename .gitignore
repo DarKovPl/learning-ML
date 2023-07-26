@@ -127,7 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 #Own
-Scripts/
-pyvenv.cfg
-.idea/
+exercise/Scripts/
+exercise/pyvenv.cfg
+exercise/.idea/
+
