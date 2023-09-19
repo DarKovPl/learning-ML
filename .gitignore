@@ -132,4 +132,6 @@ dmypy.json
 exercises/Scripts/
 exercises/pyvenv.cfg
 exercises/.idea/
-
+exercises/share/
+exercises/etc/
+exercises/models/
